@@ -1,8 +1,8 @@
 # divvy_bike
 
 Group Members: 
-Umer Naeem 
-Shuhan Zhou
+Umer Naeem; 
+Shuhan Zhou;
 Isidoro Garcia 
 
 Motivation:
